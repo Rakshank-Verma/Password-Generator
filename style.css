@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.container{
+    color: white;
+    background-color: black;
+    font-family: cursive;
+    text-align: center;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+p{
+    font-size: 1.3rem;
+    font-style: italic;
+}
+
+.container input{
+    display: block;
+    margin: auto;
+}
+
+button{
+    font-size: 1rem;
+    border-radius: 10px;
+    width: 130px;
+    height: 35px;
+    cursor: pointer;
+    background-color: rgb(249 230 6);
+}
+
+input::-webkit-inner-spin-button, ::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
+
+input{
+    height: 28px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.passwd-box h2{
+    /* border: 2px solid white; */
+    display: inline-block;
+    background-color: black;
+    color: #15e115;
+    margin-inline: auto;
+}
