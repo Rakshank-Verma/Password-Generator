@@ -6,9 +6,9 @@ body{
 }
 
 .container{
-    color: white;
-    background-color: black;
-    font-family: cursive;
+    color: red;
+    background-color: yellow;
+    font-family:'Times New Roman', Times, serif;
     text-align: center;
     border: 2px solid black;
     padding: 5px;
